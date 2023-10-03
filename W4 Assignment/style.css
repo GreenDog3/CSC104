@@ -1,0 +1,43 @@
+body{
+	background-color: #005500;
+}
+
+h1{
+	color: #00ff00;
+	font-family: arial;
+	text-align: center;
+}
+
+h2{
+	color: #00ff00;
+	font-family: arial;
+	text-align: center;
+}
+
+h3{
+	color: #00ff00;
+	font-family: arial;
+	text-align: center;
+}
+
+p{
+	color: #ffffff;
+	font-family: arial;
+	text-align: center;
+}
+
+a:link{
+	color: #00ff00;
+}
+
+a:visited{
+	color: #ffaaff;
+}
+
+iframe{
+	text-align: center;
+}
+
+img{
+	text-align: center;
+}
