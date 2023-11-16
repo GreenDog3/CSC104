@@ -4,7 +4,7 @@ body{
 
 h1{
 	color: #00ff00;
-	font-family: arial;
+	font-family: impact;
 	text-align: center;
 }
 
@@ -24,17 +24,19 @@ p{
 	color: #ffffff;
 	font-family: arial;
 	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-  	width: 40%;
+  	text-align: center;
+  	width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a:link{
 	color: #00ff00;
+    font-family: arial;
 }
 
 a:visited{
-	color: #ffaaff;
+	color: #ff00ff;
 }
 
 img {
@@ -50,3 +52,18 @@ iframe {
 	margin-right: auto;
 	width: 40%;
   }
+
+nav { 
+    padding: 20px;
+    a:link{
+        background: #00ff00;
+        color: rgb(0, 0, 0);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding: 10px;
+    }
+    
+    a:visited{
+        background: #ff00ee;
+        color: #000000cd;
+    }
+}
