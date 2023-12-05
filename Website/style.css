@@ -84,4 +84,22 @@ nav a:visited{
 nav {
 	padding: 20px;
 }
-	
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 55%;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+	color:#ffffff
+  }
+  
+  td, th {
+	border: 1px solid #00ff00;
+	text-align: left;
+	padding: 8px;
+  }
+  
