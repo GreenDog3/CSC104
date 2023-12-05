@@ -1,1 +1,1 @@
-I set up the other pages and made sure the CSS looks good on them. 
+There are four pages. A home page with a logo and an introduction, a Contact page with a twitter and tumblr link, a Portfolio page with a link to a project I uploaded on itch.io, a Blog page, and an article that the Blog page links to.

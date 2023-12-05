@@ -6,12 +6,22 @@ h1{
 	color: #00ff00;
 	font-family: impact;
 	text-align: center;
+	text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
 }
 
 h2{
 	color: #00ff00;
-	font-family: arial;
+	font-family: impact;
 	text-align: center;
+	text-shadow:
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
 }
 
 h3{
@@ -28,6 +38,11 @@ p{
   	width: 60%;
     margin-left: auto;
     margin-right: auto;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 a:link{
@@ -52,17 +67,21 @@ iframe {
 	width: 40%;
   }
 
-nav { 
+nav a:link{ 
     padding: 20px;
-    a:link{
-        background: #00ff00;
+    
+        background-color: #00ff00;
         color: rgb(0, 0, 0);
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         padding: 10px;
     }
     
-    a:visited{
-        background: #68ac68;
-        color: #808080;
-    }
+nav a:visited{
+    background: #68ac68;
+    color: #696969;
+	
 }
+nav {
+	padding: 20px;
+}
+	
